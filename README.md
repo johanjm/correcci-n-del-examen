@@ -15,21 +15,21 @@ Para el caso de tiktok se realiza un scraping y así obtener archivos csv de la 
 
 Archivos csv listos.
 
-<img src="https://github.com/johanjm/correcci-n-del-examen/edit/main/img/csvtik.png" alt="img18"/>
+<img src="https://github.com/johanjm/correcci-n-del-examen/blob/main/img/csvtik.png" alt="img18"/>
 
 Traspaso a MySQL
 ---------------------------
 Para poder emplear esto he usado la herramienta XAMP, para poder habilitar los servidores.
 
-<img src="https://github.com/johanjm/correcci-n-del-examen/edit/main/img/xamp.jpg" alt="img18"/>
+<img src="https://github.com/johanjm/correcci-n-del-examen/blob/main/img/xamp.jpg" alt="img18"/>
 
 Ahora se ha importado los archivos csv generados para tiktok en una base de datos nueva, esto se realiza para los 2 csv
 
-<img src="https://github.com/johanjm/correcci-n-del-examen/edit/main/img/upmysql.jpg" alt="img18"/>
+<img src="https://github.com/johanjm/correcci-n-del-examen/blob/main/img/upmysql.jpg" alt="img18"/>
 
 Se puede evidenciar los resultados
 
-<img src="https://github.com/johanjm/correcci-n-del-examen/edit/main/img/mysqlready.jpg" alt="img18"/>
+<img src="https://github.com/johanjm/correcci-n-del-examen/blob/main/img/mysqlready.jpg" alt="img18"/>
 
 
 

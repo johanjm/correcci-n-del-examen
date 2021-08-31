@@ -1,10 +1,12 @@
 # correcci-n-del-examen
 Twitter
 -------------------
-Priimero para crear un enlace con Twitter usamos las claves generadas por la cuenta de dessarrollador de la aplicacion, al realizar el enlace debemos obtener información con tres distintas locaciones las cuales se guardaran en una base de datos en couchDB, el código se ejecuta 2 vecess más cambiando las locaciones. Para el segundo paso se puede implementar el mismo código con la peculiaridad que en lugar de realizar locaciones simplemente colocamos un track, en este caso es JuegosOlimpicos. Y de igual manera se guarda en la base de datos en couchDB.
+Primero para crear un enlace con Twitter usamos las claves generadas por la cuenta de dessarrollador de la aplicacion, al realizar el enlace debemos obtener información con tres distintas locaciones las cuales se guardaran en una base de datos en couchDB, el código se ejecuta 2 vecess más cambiando las locaciones. Para el segundo paso se puede implementar el mismo código con la peculiaridad que en lugar de realizar locaciones simplemente colocamos un track, en este caso es JuegosOlimpicos. Y de igual manera se guarda en la base de datos en couchDB.
 
 
-
+Facebook
+-----------------
+Para realizar una extracción de datos mediante facebook, nos ayudamos de la libreria facebook-scraper, con la cual podemos conectarnos y como página de busqueda a la cual nos conectaremos, se ha seleccionado Olympic que es la cuenta oficial de los juegos olimpicos. Una vez realizada la conexion formamos el json al cual se extraeran los datos, ademas de realizar la conexion a couchDB.
 
 
 TikTok

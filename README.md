@@ -11,7 +11,7 @@ TikTok
 ----------------------
 Para el caso de tiktok se realiza un scraping y así obtener archivos csv de la plataforma, las cuentas seleccionadas, han sido Olympic y 7Olympic cuanta oficial de los juegos olimpicos y una aficionada respectivamente.
 
-<img src="https://github.com/johanjm/correcci-n-del-examen/blob/main/img/tiktok.PNG" alt="i1"/>
+<img src="https://github.com/johanjm/correcci-n-del-examen/blob/main/img/tiktok.png" alt="i1"/>
 
 Archivos csv listos.
 
